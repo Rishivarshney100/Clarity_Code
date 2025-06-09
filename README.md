@@ -3,6 +3,7 @@
 This project presents an **AI-based Code Obfuscation Tool** designed to intelligently transform source code into a more obfuscated, less human-readable format, while preserving its original functionality. This ensures better code security, protects intellectual property, and reduces vulnerability to reverse engineering.
 
 Live Link : https://studio1-black.vercel.app/
+Tech Stack: Typescript, CSS, React, Nextjs, Gemini
 
 ---
 
@@ -38,21 +39,8 @@ The **AI Code Obfuscator** leverages NLP-based techniques, Abstract Syntax Trees
 
 ---
 
-## 📁 Directory Structure
-
-```bash
-AI_Code_Obfuscation/
-├── main.py                # Main driver script
-├── obfuscator/
-│   ├── __init__.py
-│   ├── rename_identifiers.py  # Identifier obfuscation
-│   ├── control_flow.py        # Control structure modifications
-│   └── utils.py               # Helper functions
-├── test/
-│   ├── sample_input.py    # Sample input code
-│   └── test_output.py     # Output validator
-├── README.md              # Project README
-```
+## System Architecture
+![image](https://github.com/user-attachments/assets/21e19a2f-a0ad-4d01-9aed-e731027aed94)
 
 ---
 
