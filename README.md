@@ -64,21 +64,6 @@ AI_Code_Obfuscation/
 
 ---
 
-## ⚡ Quick Start
-
-### 1. Clone the Repo
-```bash
-git clone https://github.com/Rishivarshney100/AI_Code_Obfuscation.git
-cd AI_Code_Obfuscation
-```
-
-### 2. Run the Obfuscator
-```bash
-python main.py --input test/sample_input.py --output obfuscated_output.py
-```
-
----
-
 ## 📊 Sample Obfuscation
 
 **Input:**
